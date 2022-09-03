@@ -1,1 +1,1 @@
-My first readme
+The repository /alx-zero_day is all about learning to use git commands. Having learnt some theoretical concepts and commands on the use of git, this project is a practical approach to further deeping my understanding of the theories. With this I have practice how to: create a repository on github, clone a repository from github to git on my local PC, and work on the repository by adding and editing data and there after pushing the file from my local PC bach to github from git.
